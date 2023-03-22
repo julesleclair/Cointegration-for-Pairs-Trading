@@ -1,0 +1,19 @@
+#10/03/2023
+Carlo
+Introduction to cointegration - pair trading. 
+Review topic and provided us with material (cf. google drive.) 
+#DeepLearning #Stationarity #Test (to be expended)
+
+#17/03/2023
+Edgar Nava
+# Dickey-Fuller Test (from Edgar Nava)
+https://www.youtube.com/watch?v=1opjnegd_hA
+
+# Dickey-Fuller test and augmented Dickey-Fuller test - unit roots and stationarity  (from Edgar Nava)
+https://www.youtube.com/watch?v=KCFLfQHZODM
+
+# Hurst exponent explained: Long-term memory in time series (Excel) (from Edgar Nava)
+https://www.youtube.com/watch?v=l08LICz8Ink
+
+# KPSS test explained: Time series stationarity (Excel) 
+https://www.youtube.com/watch?v=ubzH1BJuUro
